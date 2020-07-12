@@ -1,2 +1,2 @@
 clear:
-	rm *.out
+	rm */a.out
