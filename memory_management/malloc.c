@@ -9,6 +9,7 @@ int main() {
   // Use += statment
   *(ptr+=3) = 20;
   *(ptr+6) = 60;
+  // Use Loop
   for (int i = 0; i < 10; i++) {
     printf("Value: %d, INDEX: %d\n", *(ptr+i), i);
   }
